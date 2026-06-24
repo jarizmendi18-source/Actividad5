@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+
+# Variables de entorno
+.env
+
+# MLflow
+mlruns/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Modelos entrenados
+*.h5
+*.pkl
+*.joblib
+
+# Resultados temporales
+temp/
+logs/
